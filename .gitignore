@@ -28,6 +28,8 @@ $RECYCLE.BIN/
 
 # Visual Studio
 .vscode/
+.idea/
+*/.idea/
 .history/
 *.code-workspace
 
